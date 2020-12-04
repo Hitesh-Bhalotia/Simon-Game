@@ -1,5 +1,5 @@
 # Simon-Game
-Built using HTML, CSS, Javacript and JQuery.
+Built using HTML, CSS, Javascript and JQuery.
 
 Simon is a memory game where each time a block of a particular color blinks which the player has to remember and then press all the colors from the beginning to get the next color.
 If any of the colors pressed by the player are out of order then the game is over.
